@@ -1,9 +1,9 @@
 # Converting-images-into-a-pdf-in-python
 
 # Requiements
-  . python3
+  - python3
 # Library Requirements
   
-  pip install pillow
+  - pip install pillow
   
-  pip install imutils
+  - pip install imutils
