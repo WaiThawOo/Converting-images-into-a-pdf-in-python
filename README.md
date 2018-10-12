@@ -1,7 +1,8 @@
 # Converting-images-into-a-pdf-in-python
 
 # Requiements
-  python3
+  . python3
+# Library Requirements
   
   pip install pillow
   
